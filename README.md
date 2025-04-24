@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Aung Ye Kyaw
+## I'm Aung Ye Kyaw
 
 ## 🧠 About Me
 I'm a **System Engineer** with a strong background in **IT Banking**, specializing in **ATM**, **POS**, and **E-commerce switching services**. I ensure seamless card issuing and acquiring processes, enabling secure and efficient transactions such as withdrawals, balance inquiries, and fund transfers across ATM networks.
