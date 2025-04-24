@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm Aung Ye Kyaw
 
 ## 🧠 About Me
-I'm a **System Engineer** with a strong background in **IT Banking**, specializing in **ATM**, **POS**, and **E-commerce switching services**. I ensure seamless card issuing and acquiring processes, enabling secure and efficient transactions such as withdrawals, balance inquiries, and fund transfers across ATM networks.
+I'm a **System Engineer** with a strong background in **IT Banking**, specializing in GRG banking in **ATM**, **POS**, and **E-commerce switching services**. I ensure seamless card issuing and acquiring processes, enabling secure and efficient transactions such as withdrawals, balance inquiries, and fund transfers across ATM networks.
 
 With experience supporting banking software systems, I maintain **database reliability** through regular maintenance and infrastructure optimization. I’m passionate about **system optimization**, **cloud solutions**, and making IT operations smoother and more secure.
 
