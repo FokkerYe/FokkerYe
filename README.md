@@ -39,7 +39,7 @@ I began my career as a self-taught **System Engineer** in 2019. Since then:
 - Grew into **cloud server administration** and system integration projects.
 - Contributed to open-source and internal process improvements.
 
-Currently, I’m diving deeper into the **DevOps career path**, focusing on Version Control (Git, GitHub),CI/CD (Jenkins, GitHub Actions, GitLab CI), Containers (Docker),Orchestration (K8s), Infrastructure as Code (Terraform, Ansible), Cloud Providers AWS (popular in Japan), Azure, GCP,Monitoring/Logging (Prometheus, Grafana, ELK), Scripting (Bash,Python), now i learning japanese language .i need to work devops engineer role in Tokyo
+I am building a career in DevOps, with hands-on experience in Version Control (Git, GitHub), CI/CD (Jenkins, GitHub Actions, GitLab CI), Containers (Docker), Orchestration (Kubernetes), Infrastructure as Code (Terraform, Ansible), and Cloud platforms (AWS, Azure, GCP). I am also gaining skills in Monitoring/Logging (Prometheus, Grafana, ELK) and scripting (Bash, Python). Currently, I am learning Japanese to enhance my opportunities to work as a DevOps Engineer in Tokyo/
 
 ## 🌱 What I’m Learning
 - DevOps practices and tooling
