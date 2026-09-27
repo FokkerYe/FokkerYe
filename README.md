@@ -23,13 +23,19 @@ I'm a **System Engineer** with a strong background in **IT Banking**, specializi
 With experience supporting banking software systems, I maintain **database reliability** through regular maintenance and infrastructure optimization. I’m passionate about **system optimization**, **cloud solutions**, and making IT operations smoother and more secure.
 
 ## 🔧 My Expertise
-- 💳 ISO 8583 message testing (JCB, IBFT) – UAT & SIT environments
-- 💼 Banking systems (ATM/POS/E-commerce switching)
-- 🧪 Tech-spec compliance (MPU specifications)
-- 🖥️ Server administration: Windows, Linux
-- ☁️ Cloud platforms: AWS, Azure, DigitalOcean
-- 🗄️ Databases: Oracle, PostgreSQL, MSSQL
-- 🛠️ Tools: Apache, Nginx, Tomcat, Java
+* 🏦 Banking infrastructure & transaction systems
+* 💳 ATM, POS & E-commerce systems
+* 🔄 GRG Banking Switch & ISO 8583
+* 🧪 UAT / SIT testing
+* 💳 JCB & IBFT transaction testing
+* 🗄️ Oracle, PostgreSQL & Microsoft SQL Server
+* 🖥️ Windows & Linux server administration
+* 🌐 Nginx, Apache & Apache Tomcat
+* ☁️ AWS, Microsoft Azure & DigitalOcean
+* 🔐 Security hardening, backup & system maintenance
+* 🛠️ Application deployment & troubleshooting
+* 💼 Microsoft 365 administration & support
+
 
 ## 📚 My Journey
 I began my career as a self-taught **System Engineer** in 2019. Since then:
@@ -38,6 +44,7 @@ I began my career as a self-taught **System Engineer** in 2019. Since then:
 - Handled **ISO 8583 electronic message testing** to ensure accurate and compliant transactions.
 - Grew into **cloud server administration** and system integration projects.
 - Contributed to open-source and internal process improvements.
+- Provided ** customer support for MS365 user .
 
 I am building a career in DevOps, with hands-on experience in Version Control (Git, GitHub), CI/CD (Jenkins, GitHub Actions, GitLab CI), Containers (Docker), Orchestration (Kubernetes), Infrastructure as Code (Terraform, Ansible), and Cloud platforms (AWS, Azure, GCP). I am also gaining skills in Monitoring/Logging (Prometheus, Grafana, ELK) and scripting (Bash, Python). Currently, I am learning Japanese to enhance my opportunities to work as a DevOps Engineer in Tokyo & OSAKA.
 
