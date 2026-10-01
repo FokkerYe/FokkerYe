@@ -1,59 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Aung Ye Kyaw
 
-<!--
-**FokkerYe/FokkerYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### System Engineer | Banking Technology | Cloud & DevOps | Future AI Engineer 🇯🇵
 
-Here are some ideas to get you started:
+I’m a **System Engineer** with experience in **IT Banking, Telecom, Infrastructure, Linux Servers, Microsoft 365, and Cloud technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have **6+ years of experience in IT Banking and System Engineering**, working with **GRG banking switches, ATM, POS, E-commerce, databases, servers, and payment systems**. I also have **6 months of experience as a TI Engineer in the Telecom field**.
 
-## I'm Aung Ye Kyaw
+I graduated from **Technological University, Mawlamyine** with a **Bachelor of Engineering in Information Technology (BE IT)**.
 
-## 🧠 About Me
-I'm a **System Engineer** with a strong background in **IT Banking**, specializing GRG banking in **ATM**, **POS**, and **E-commerce switching services**. I ensure seamless card issuing and acquiring processes, enabling secure and efficient transactions such as withdrawals, balance inquiries, and fund transfers across ATM networks.I graduated from Technological University, Mawlamyine with a Bachelor of Engineering in Information Technology (BE IT).
+## 💼 My Journey
 
-With experience supporting banking software systems, I maintain **database reliability** through regular maintenance and infrastructure optimization. I’m passionate about **system optimization**, **cloud solutions**, and making IT operations smoother and more secure.
+I started my professional IT career in **2019** and have worked across different areas of IT.
 
-## 🔧 My Expertise
-* 🏦 Banking infrastructure & transaction systems
-* 💳 ATM, POS & E-commerce systems
-* 🔄 GRG Banking Switch & ISO 8583
-* 🧪 UAT / SIT testing
-* 💳 JCB & IBFT transaction testing
-* 🗄️ Oracle, PostgreSQL & Microsoft SQL Server
-* 🖥️ Windows & Linux server administration
-* 🌐 Nginx, Apache & Apache Tomcat
-* ☁️ AWS, Microsoft Azure & DigitalOcean
-* 🔐 Security hardening, backup & system maintenance
-* 🛠️ Application deployment & troubleshooting
-* 💼 Microsoft 365 administration & support
+* Supported **GRG banking switch** systems, including JCB and ATM debit card systems.
+* Supported **ATM, POS, and E-commerce** payment systems.
+* Worked with **ISO 8583 message testing** for banking transactions.
+* Provided technical support to **member banks** and helped solve system problems.
+* Supported **Linux servers**, including setup, maintenance, troubleshooting, and monitoring.
+* Supported **server security**, access control, and basic system hardening.
+* Provided **Microsoft 365 user support** and administration.
+* Worked with **databases, cloud systems, and system integration**.
+* Helped with **system maintenance, automation, and process improvements**.
 
+## ☁️ Cloud & DevOps
 
-## 📚 My Journey
-I began my career as a self-taught **System Engineer** in 2019. Since then:
-- Led **GRG banking switch maintenance** projects involving JCB card and ATM debit card systems.
-- Provided **technical support** to member banks across core banking platforms.
-- Handled **ISO 8583 electronic message testing** to ensure accurate and compliant transactions.
-- Grew into **cloud server administration** and system integration projects.
-- Contributed to open-source and internal process improvements.
-- Provided ** customer support for MS365 user .
+I am currently building my skills in **Cloud and DevOps**.
 
-I am building a career in DevOps, with hands-on experience in Version Control (Git, GitHub), CI/CD (Jenkins, GitHub Actions, GitLab CI), Containers (Docker), Orchestration (Kubernetes), Infrastructure as Code (Terraform, Ansible), and Cloud platforms (AWS, Azure, GCP). I am also gaining skills in Monitoring/Logging (Prometheus, Grafana, ELK) and scripting (Bash, Python). Currently, I am learning Japanese to enhance my opportunities to work as a DevOps Engineer in Tokyo & OSAKA.
+* Git & GitHub
+* Jenkins, GitHub Actions & GitLab CI
+* Docker & Kubernetes
+* Terraform & Ansible
+* AWS, Azure & Google Cloud
+* Linux & Bash
+* Python
+* Prometheus & Grafana
+* ELK Stack
 
-## 🌱 What I’m Learning
-- DevOps practices and tooling
-- Infrastructure as Code (IaC)
-- Containerization & Orchestration (Docker, Kubernetes)
-- CI/CD pipelines & automation
+## 🌱 Currently Learning
 
-## 🤝 Let’s Connect
-I’m always eager to collaborate, learn, and solve complex infrastructure challenges. Let’s connect to explore how I can contribute to your project or team!
+* Cloud Computing
+* DevOps & Automation
+* Kubernetes
+* Infrastructure as Code
+* Japanese Language 🇯🇵
+* AI & Modern IT Technologies
 
+## 🎯 My Goal
+
+My goal is to continue growing from **System Engineering → Cloud → DevOps → AI** and build my future IT career in **Japan**.
+
+I am interested in studying **AI and advanced IT technologies** and continuing to improve my technical and Japanese language skills.
+
+## 🤝 Let's Connect
+
+I’m always interested in **learning, building, and working on new technology projects**.
+
+**System Engineering → Cloud → DevOps → AI 🇯🇵**
